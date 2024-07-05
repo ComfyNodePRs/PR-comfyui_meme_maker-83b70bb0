@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_meme_maker"
+description = "Nodes: Meme Maker. Custom node for ComfyUI to add meme text over a processed image before save or preview node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Smuzzies/comfyui_meme_maker"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "meme_maker"
+DisplayName = "comfyui_meme_maker"
+Icon = ""
