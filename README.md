@@ -1,6 +1,8 @@
 # comfyui_meme_maker
 Meme Maker Node for ComfyUI
 
+![image](https://github.com/Smuzzies/comfyui_meme_maker/assets/110495122/25763a95-ef5b-4149-814a-b63a8318261b)
+
 Use ComfyUI Manager to install
 or
 Navigate to ComfyUI -> custom_nodes
